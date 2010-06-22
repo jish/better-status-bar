@@ -30,6 +30,7 @@ var StatusBar = {
     element.style['border-bottom'] = '1px solid #cdcdcd';
     element.style['border-right'] = '1px solid #cdcdcd';
     element.style['-webkit-border-bottom-right-radius'] = '5px';
+    element.style.zIndex = '20000';
 
     textNode.innerHTML = text;
     textNode.style.color = '#161616';
