@@ -48,8 +48,8 @@ var StatusBar = {
   },
 
   text: function(value) {
-    if (value == 'undefined') {
-      value = window.location;
+    if (value == undefined) {
+      value = window.location.href;
     }
 
     StatusBar.textNode.innerHTML = value;
