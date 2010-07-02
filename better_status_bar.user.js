@@ -37,6 +37,8 @@ var StatusBar = {
     textNode.style.margin = '2px 4px';
     textNode.style.fontFamily = 'Arial';
     textNode.style.fontSize = '11px';
+    textNode.style.padding = '0px';
+    textNode.style.textAlign = 'left';
     textNode.style.textShadow = '1px 1px #fefefe';
     textNode.style['letter-spacing'] = '1px';
 
