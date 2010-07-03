@@ -6,7 +6,7 @@ fix for it.
 This userscript will display another status bar in the top left corner of the
 screen.
 
-[click here to install](http://github.com/jish/better-status-bar/blob/master/better_status_bar.user.js "Install Better Status Bar")
+[click here to install](http://github.com/jish/better-status-bar/raw/master/better_status_bar.user.js "Install Better Status Bar")
 
 ## Known Issues
 - The status bar displays on the top left, not the bottom left.
